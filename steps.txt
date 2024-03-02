@@ -1,0 +1,13 @@
+step 1: Open Github
+
+step2: At the top right corner.
+
+step3: click on new repository.
+
+step 4: Name repository as your enrollment number.
+
+step 5: Make 2 folders and name one as Assignment_1 and another as Assigment_2.
+
+step 6: Save those respective files in the folder.
+
+step 7: Upload those folder to your github repository.
